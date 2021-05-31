@@ -346,12 +346,15 @@ td{
 }
 .umeda img{
   margin-right: 6%;
+  height: 230px;
 }
 .namba img{
   margin-left: 6%;
+  height: 230px;
 }
 #building img{
   width: 40%;
+  height: 230px;
   
   
 }
@@ -489,6 +492,8 @@ footer .wrapper a:hover{
   }
   #building img{
     width: 80%; 
+    height: auto;
+    margin: 0;
   }
 
   #building h3{
